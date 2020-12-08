@@ -3,6 +3,7 @@ Improved Finance Project
 Yeasha Islam
 12/7/2020
 Junior year student(Finance major and Computer science minor)
+I did this project all by myself.
 
 Link to Zoom video: https://temple.zoom.us/rec/play/-s5AlukXkdRhUpQ4shjMafwsVTdleIN7VWS8F2BA7x81mCfeFYR1A0f4kcZMWC5rfZj4UjCAh55a519m.AH52Avma_zx1x29q?continueMode=true
 
