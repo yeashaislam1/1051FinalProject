@@ -1,4 +1,5 @@
-Improved Finance Project
+# Improved Finance Project
+
 Yeasha Islam
 12/7/2020
 Junior year student(Finance major and Computer science minor)
