@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Blog
+{% endblock %}
+
+{% block main %}
+      <div class="container">
+            <form action='/blog'method="POST">
+                <textarea name="content"></textarea>
+                <input type="submit" />
+            </form>
+
+            <div class="entries">
+                {% for entry in entries %}
+                <div class="entry">
+                    <div class="entry-title">
+                        {{ entry[0] | truncate(30, true) }}
+                        <span class="entry-date">• {{ entry[1] }}</span>
+                    </div>
+                    <p class="entry-content">{{ entry[0] }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+{% endblock %}
